@@ -6,4 +6,4 @@ A node.js program that captures top posts from Flickr, blurs and arranges them t
 ## Directions
 Requires Node.js.
 
-After cloning the repository, run ```node BlurDatServer.js``` and open localhost:8000 in your browser.
+After cloning the repository, run ```node BlurDatServer.js``` and open ```localhost:8000``` in your browser.
